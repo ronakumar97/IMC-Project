@@ -1,0 +1,3 @@
+Run the GUI.m file to select the source (Texture) image and the target image. Then click on the Texture Transfer to see the output/results.
+
+Note : The source image and the target image should be in this folder itself.
